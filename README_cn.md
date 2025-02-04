@@ -282,4 +282,9 @@
         <td> <a href="docs/promptfoo/README.md"> promptfoo </a> </td>
         <td> 测试和评估LLM提示，包括DeepSeek模型。比较不同的LLM提供商，捕获回归，并评估响应。 </td>
     </tr>
+    <tr>
+        <td> <img src="https://www.aiqbh.com/DMXAPI-D.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://DMXAPI.com"> DMXAPI 第三方 deepseek API 聚合服务商 </a> </td>
+        <td> deepseek官方用不了，我用这家熬了一周。 Openai Claude  Gemini 都是6.8折，挺好 </td>
+    </tr>    
 </table>
